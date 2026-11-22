@@ -17,7 +17,7 @@ Inside `evaluate_bounty(bounty_id)`, the contract uses `gl.vm.run_nondet(leader_
 2. **`validator_fn`:** Ensures the leader returned a valid `gl.vm.Return`, independently re-fetches and evaluates the same live URL, and verifies `leader_result.calldata == validator_decision` before finalizing state changes and executing `_Recipient(bounty.contributor).emit_transfer(...)`.
 
 ## Deployment & Verification (GenLayer Studio)
-- **Contract Address:** `0x53d2b47749237B6ded2a417cA02EA8dc96c60b1c`
+- **Contract Address:** `0x4b633e43d706e21856d618444F615A3c6A0FAC5C`
 - **Deployment TX Hash:** `0x5e4da14fac0cbc8950f58bcd1627270fe4e4ae962c38a031ba8ba35dd8641340`
 - **Consensus Status:** `FINALIZED` (`MAJORITY_AGREE`)
 
