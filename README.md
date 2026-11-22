@@ -19,6 +19,7 @@ Inside `evaluate_bounty(bounty_id)`, the contract uses `gl.vm.run_nondet(leader_
 ## Deployment & Verification (GenLayer Studio)
 - **Contract Address:** `0x4b633e43d706e21856d618444F615A3c6A0FAC5C`
 - **Deployment TX Hash:** `0x9d962b61a4428b1aeaa161d89f439e8eab98e1e74594ce6ed90792560acc8c82`
+- **Explorer Link:** [View on GenLayer Studio Explorer](https://explorer-studio.genlayer.com/address/0x4b633e43d706e21856d618444F615A3c6A0FAC5C)
 - **Consensus Status:** `FINALIZED` (`MAJORITY_AGREE`)
 
 ## Contract Interface
